@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1599868307 source:c:\users\daiana\desktop\workspace_programacioni\tp1\utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1599867415 source:c:\users\daiana\desktop\workspace_programacioni\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"UTN.h"
+
+1599868252 c:\users\daiana\desktop\workspace_programacioni\tp1\utn.h
+	<stdio.h>
+	<stdlib.h>
+
